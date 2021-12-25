@@ -1,0 +1,6 @@
+C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp.lib\bin\Debug\BruhSoundEffectException.csharp.lib.dll
+C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp.lib\bin\Debug\BruhSoundEffectException.csharp.lib.pdb
+C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp.lib\obj\Debug\BruhSoundEffectException.csharp.lib.csprojAssemblyReference.cache
+C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp.lib\obj\Debug\BruhSoundEffectException.csharp.lib.csproj.CoreCompileInputs.cache
+C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp.lib\obj\Debug\BruhSoundEffectException.csharp.lib.dll
+C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp.lib\obj\Debug\BruhSoundEffectException.csharp.lib.pdb
