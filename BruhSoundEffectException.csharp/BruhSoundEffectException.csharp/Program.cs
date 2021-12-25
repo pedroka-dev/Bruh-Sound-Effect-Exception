@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BruhSoundEffectException.csharp.lib;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,15 @@ namespace BruhSoundEffectException.csharp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            try
+            {
+                Application.Run(new FormMain());
+            }
+            catch (Exception ex)
+            {
+                SoundEffectPlayer.PlaySound();
+                MessageBox.Show(ex.StackTrace, ex.Message, MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

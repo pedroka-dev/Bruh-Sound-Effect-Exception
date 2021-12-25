@@ -2,7 +2,6 @@ C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectEx
 C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\bin\Debug\BruhSoundEffectException.csharp.exe
 C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\bin\Debug\BruhSoundEffectException.csharp.pdb
 C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\obj\Debug\BruhSoundEffectException.csharp.csprojAssemblyReference.cache
-C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\obj\Debug\BruhSoundEffectException.csharp.Form1.resources
 C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\obj\Debug\BruhSoundEffectException.csharp.Properties.Resources.resources
 C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\obj\Debug\BruhSoundEffectException.csharp.csproj.GenerateResource.cache
 C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\obj\Debug\BruhSoundEffectException.csharp.csproj.CoreCompileInputs.cache
@@ -11,3 +10,4 @@ C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectEx
 C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\bin\Debug\BruhSoundEffectException.csharp.lib.dll
 C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\bin\Debug\BruhSoundEffectException.csharp.lib.pdb
 C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\obj\Debug\BruhSoundEffectException.csharp.csproj.CopyComplete
+C:\Users\Pedroska\Documents\GitHub\Bruh-Sound-Effect-Exception\BruhSoundEffectException.csharp\BruhSoundEffectException.csharp\obj\Debug\BruhSoundEffectException.csharp.FormMain.resources
